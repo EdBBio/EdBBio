@@ -4,7 +4,7 @@
 **EdBBio/EdBBio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## A little bit about me
+# A little bit about me
 🧑‍🎓 Biology graduation studant
 
 🐸 Herpetology and bathracology
