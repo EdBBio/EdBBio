@@ -7,7 +7,7 @@
 # A little bit about me
 🧑‍🎓 Biology graduation studant for the [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
 
-🐸 Herpetology and bathracology
+🐸 Herpetology and bathracology at [Federal University of Pernambuco Herpetology Lab](https://sites.ufpe.br/herpetologia/linhas-de-pesquisa/)
 
 🌱 Interested about ecological process
 
