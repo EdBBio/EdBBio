@@ -34,6 +34,6 @@
 # Contacts
 <div> 
   <a href="https://www.instagram.com/edbbio/" target="_blank"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" target="_blank"></a>
- <a href="https://twitter.com/Edbbio" target="_blank"><img align="center" height="70" width="70" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png" target="_blank"></a>
+ <a href="https://twitter.com/Edbbio" target="_blank"><img align="center" height="70" width="70" src="https://i.imgur.com/hwgR2xN.png" target="_blank"></a>
   <a href = "mailto:edson151413@gmail.com"><img align="center" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" target="_blank"></a>
 </div>
