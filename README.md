@@ -11,7 +11,7 @@
 
 🌱 Interested about ecological process
 
-📈 Statics and data sciense applyied to biosciences
+📈 Statics and data sciense applied to biosciences
 
 👨‍💻 R programming language user [#rstats](https://twitter.com/search?q=%23rstats&src=typeahead_click)
 
