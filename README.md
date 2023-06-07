@@ -5,7 +5,7 @@
 -->
 
 # A little bit about me
-🧑‍🎓 Biology graduation studant
+🧑‍🎓 Biology graduation studant for the [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
 
 🐸 Herpetology and bathracology
 
