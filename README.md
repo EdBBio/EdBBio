@@ -25,6 +25,7 @@
   <img align="center" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/tidyverse.svg">
   <img align="center" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/rmarkdown.svg">
   <img align="center" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/knitr.svg">
+  <img align="center" height="80" width="80" src="https://i.imgur.com/l531sOW.png">
   <img align="center" height="80" width="80" src="https://pbs.twimg.com/media/EVBsvxoX0AEUEsE.png">
   <img align="center" height="80" width="80" src="https://github.com/rstudio/hex-stickers/blob/main/SVG/quarto.svg">
   <img align="center" height="80" width="80" src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png">
