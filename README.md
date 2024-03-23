@@ -7,7 +7,7 @@
 # A little bit about me
 🧑‍🎓 Bachelor Bioligist for the [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
 
-🧑‍🎓 Master Student for the [Post Graduation Program of Animal Biology](https://www.ufpe.br/ppgba)
+🧑‍🎓 Master Student for the [Post Graduation Program of Animal Biology](https://www.ufpe.br/ppgba) - [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
 
 🐸 Herpetology and bathracology at [Federal University of Pernambuco Herpetology Lab](https://sites.ufpe.br/herpetologia/linhas-de-pesquisa/)
 
@@ -15,7 +15,7 @@
 
 👨‍💻 R programming language user [#rstats](https://twitter.com/search?q=%23rstats&src=typeahead_click)
 
-📈 Blog: [Statics and data sciense applied to ecologyr](https://edsonsilvajunior.netlify.app/)
+📈 Blog: [Statics and data sciense applied to ecology and conservation](https://edsonsilvajunior.netlify.app/)
 
 #
 ![EdBBio's Stats](https://github-readme-stats.vercel.app/api?username=EdBBio&show_icons=true&theme=chartreuse-dark)
