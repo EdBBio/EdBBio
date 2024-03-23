@@ -7,7 +7,7 @@
 # A little bit about me
 🧑‍🎓 Bachelor Bioligist for the [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
 
-🧑‍🎓 Master Student for the [Post Graduation Program of Animal Biology](https://www.ufpe.br/ppgba) - [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
+📝 Master Student for the [Post Graduation Program of Animal Biology](https://www.ufpe.br/ppgba) - [Federal University of Pernambuco](https://www.ufpe.br/), Brazil
 
 🐸 Herpetology and bathracology at [Federal University of Pernambuco Herpetology Lab](https://sites.ufpe.br/herpetologia/linhas-de-pesquisa/)
 
